@@ -1,3 +1,9 @@
-import ConsultaCard from "../components/ConsultaCard";
 export { default as Home } from "./Home";
-export { default as Admin } from "./Admin";
+export { default as Login } from "./Login";
+export { default as Cadastro } from "./Cadastro";
+export { default as Agendar } from "./Agendar";
+export { default as PainelAdmin } from "./PainelAdmin";
+export { default as AdminConsultas } from "./AdminConsultas";
+export { default as AdminPacientes } from "./AdminPacientes";
+export { default as AdminMedicos } from "./AdminMedicos";
+export { default as AdminSenha } from "./AdminSenha";
